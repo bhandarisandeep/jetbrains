@@ -1,7 +1,7 @@
 # Write your code here
 # Waise to rock, paper, scissor offline khelne me maza ata hai however this program makes the experience even more fun with your AI based partner.
 # Enjoy the GAME by CRACK ! --- <3 CC
-
+# coders
 import random
 
 
